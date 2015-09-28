@@ -1,0 +1,46 @@
+{
+  "name": "namespace-helpers",
+  "description": "Use namespaced helpers with handlebars.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/namespace-helpers",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/namespace-helpers",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/namespace-helpers/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "engine",
+    "handlebars",
+    "helpers",
+    "key",
+    "keys",
+    "lodash",
+    "rename",
+    "template",
+    "underscore"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "create-frame",
+        "handlebars-helpers",
+        "template-helpers"
+      ]
+    }
+  }
+}
